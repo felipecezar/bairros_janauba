@@ -1,6 +1,6 @@
 [
     {
-        "nome": "Nome do Bairro",
+        "nome": "COAB",
         "geometria": {
             "type": "Polygon",
             "coordinates": [
