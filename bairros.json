@@ -1,9 +1,10 @@
 [
     {
-        "nome": "Nome do Bairro",
+        "nome": "Balneario do Bico da Pedra",
         "geometria": {
             "type": "Polygon",
             "coordinates": [
+                [-15.85255,-43.55555],
                 [-15.85255,-43.55555],
                 [-15.85255,-43.55555],
                 [-15.85255,-43.55555]
